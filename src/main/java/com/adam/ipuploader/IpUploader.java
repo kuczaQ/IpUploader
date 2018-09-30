@@ -13,6 +13,7 @@ public class IpUploader {
     }
 
     public static String getIp() {
+        
         URL whatismyip = null;
         try {
             whatismyip = new URL("http://checkip.amazonaws.com");
