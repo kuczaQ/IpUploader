@@ -31,3 +31,7 @@ output.json
 #NDK
 obj/
 .externalNativeBuild
+
+IpUploader.ipr
+IpUploader.iws
+db_password
